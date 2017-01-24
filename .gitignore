@@ -1,0 +1,8 @@
+*.bak
+*()*
+*.exe
+*.sdf
+*.sln
+*.pdb
+*.ilk
+*.stackdump

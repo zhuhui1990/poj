@@ -1,0 +1,3 @@
+﻿  1008.cpp
+d:\poj\unfinished\1008\1008\1008.cpp(24): warning C4715: “month_in_convert”: 不是所有的控件路径都返回值
+  1008.vcxproj -> D:\poj\unfinished\1008\Debug\1008.exe

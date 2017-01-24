@@ -1,0 +1,24 @@
+﻿  3062.cpp
+d:\poj\3062\3062\3062.cpp(11): error C3867: “std::basic_string<_Elem,_Traits,_Alloc>::length”: 函数调用缺少参数列表；请使用“&std::basic_string<_Elem,_Traits,_Alloc>::length”创建指向成员的指针
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>,
+              _Alloc=std::allocator<char>
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppCommon.targets(347,5): error MSB6006: “CL.exe”已退出，代码为 2。
+          ]
+d:\poj\3062\3062\3062.cpp(11): error C2446: “<”: 没有从“unsigned int (__thiscall std::basic_string<_Elem,_Traits,_Alloc>::* )(void) throw() const”到“int”的转换
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>,
+              _Alloc=std::allocator<char>
+          ]
+          没有使该转换得以执行的上下文
+d:\poj\3062\3062\3062.cpp(11): error C2297: “<”: 非法，右操作数包含“unsigned int (__thiscall std::basic_string<_Elem,_Traits,_Alloc>::* )(void) throw() const”类型
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>,
+              _Alloc=std::allocator<char>
+          ]
